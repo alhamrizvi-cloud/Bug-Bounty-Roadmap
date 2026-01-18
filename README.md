@@ -1,3 +1,5 @@
+<img width="851" height="315" alt="opt 2" src="https://github.com/user-attachments/assets/30995cc1-69fc-4b45-b638-0aad8b286d71" />
+
 # 🐞 Bug Bounty Roadmap
 
 ### From Zero to Advanced — A Practical Beginner’s Guide
