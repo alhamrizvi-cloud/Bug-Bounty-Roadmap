@@ -41,6 +41,8 @@ Bug-Bounty-Roadmap/
 
 📌 **Important:** Read and follow the files **in the same order** as listed above.
 
+check the index.md: https://github.com/alhamrizvi-cloud/Bug-Bounty-Roadmap/blob/main/index.md
+
 
 ## 🧭 How to Use This Roadmap (Recommended Order)
 
