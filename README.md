@@ -27,7 +27,7 @@ Each file in this repo represents **one clear stage** of the journey:
 ```text
 Bug-Bounty-Roadmap/
 ├── README.md                 # You are here
-├── roadmap.md                # Full learning roadmap (0 → Advanced)
+├── roadmap.md                # Best Recommended way (0 → Advanced)
 ├── computernetworking.md     # Networking fundamentals
 ├── linuxandterminal.md       # Linux OS + terminal mastery
 ├── bugbountytools.md         # Essential tools (Burp, Nuclei, etc.)
